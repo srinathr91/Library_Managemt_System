@@ -6,7 +6,8 @@ Importing the file:
 Open Eclipse--> Click File -->import --> click general --> click existing projects into workspace --> next --> select a root directory--> click browse --> select your file path --> click ok--> give finish
 There are two referenced libraries used in this project. They are ‘mysql-connector-java-5.1.33-bin.jar’ and 'rs2xml.jar'
 Select the ‘library’ project, click SRC ---> default package and open the Login.java which is the the Main class. Press the run command.
-It prompts for a username and password
+It prompts for a username, password
 Username: srinath
 Password: srinathr
 Then select the required button in the GUI to perform your operation required of the project
+
